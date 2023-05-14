@@ -2,7 +2,7 @@
 
 class Persona{
 
-    static porObjeto({ nombre, apellido, pais }){
+    static porObjeto({ nombre, apellido, pais}){
         return new Persona(nombre, apellido, pais);
     }
 
