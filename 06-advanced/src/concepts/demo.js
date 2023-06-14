@@ -5,7 +5,7 @@
  */
 export const demoComponent = (element) => {
 
-    console.log("demoComponent");
+    console.log('demoComponent');
     
 
 }
